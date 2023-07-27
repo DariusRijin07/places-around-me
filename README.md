@@ -5,10 +5,19 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+clone the github repository into theria IDE.
+
 ### Step 2:
+create a new django project.
+
+### step 3:
+write the needed html code.
+
+### step 4:
+run the django server and execute the html code.
 
 ## Code:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,13 +35,20 @@ Write your own steps here.
 </map>    
 </body>
 </html>
+```
 
 ## Output:
+
 ![out1](out1.png)
+
 ![out2](out2.png)
+
 ![out3](out3.png)
+
 ![out4](out4.png)
+
 ![out6](out5.png)
+
 ![out6](out6.png)
 
 
